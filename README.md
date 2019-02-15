@@ -18,6 +18,9 @@ Spring Cloud Running is the core part of the project, consisting of Edging Servi
 
 # Technology Stack:
 Backend: Java, Spring Boot, Spring Data, Spring Cloud, Netflix OSS, SQL, JPA, Maven, Tomcat, WebSocket, RabbitMQ, REST
+
 Frontend: HTML/CSS, Javascript, Bootstrap
+
 Databases: MySQL, MongoDB, H2
+
 Tools: Git, Docker, Vagrant, IntelliJ IDEA
